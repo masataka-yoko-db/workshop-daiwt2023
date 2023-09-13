@@ -6,8 +6,8 @@
   * イベント参加登録とは別に登録が必要になります(システムの都合上、登録開始はトレーニング初日になります)
   * 登録方法については、ワークショップ開始時にトレーナーより説明いたします。
 * Cloud Labs
-  * [登録方法解説(編集中)](document/registration_guide.pdf)
-  * [登録ページ(編集中)](link)
+  * [登録方法解説](document/registration_guide.pdf)
+  * [登録ページ](https://bit.ly/3ZfBCh8)
 * コース参考資料
   * 資料
     * [プレゼン資料(編集中)](document/presentation.pdf)
