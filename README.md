@@ -10,7 +10,7 @@
   * [登録ページ](https://bit.ly/3ZfBCh8)
 * コース参考資料
   * 資料
-    * [プレゼン資料(編集中)](document/presentation.pdf)
+    * [プレゼン資料](document/workshop-daiwt2023.pdf)
   * ノートブック
     * [ノートブックリンク(編集中)](notebook/daiwt.dbc)
 * ハンズオン環境（Cloud  Labs)
